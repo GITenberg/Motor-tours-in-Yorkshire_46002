@@ -1,0 +1,34 @@
+_repo: Motor-tours-in-Yorkshire_46002
+_version: 0.1.0
+contributor:
+  photographer:
+    agent_name: Stawell, R. De S.
+    gutenberg_agent_id: '43569'
+    url: http://www.gutenberg.org/2009/agents/43569
+covers:
+- cover_type: archival
+  image_path: 46002-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stawell, Rodolph, Mrs.
+    aliases:
+    - Stawell, Maud Margaret Key
+    - Stawell, Mrs. Rodolph
+    - Key, Maud Margaret
+    gutenberg_agent_id: '39350'
+    url: http://www.gutenberg.org/2009/agents/39350
+description: ''
+gutenberg_issued: '2014-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46002'
+  lccn: '10036136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yorkshire (England) -- Description and travel'
+- !lcc 'DA'
+title: Motor tours in Yorkshire
+url: http://www.gutenberg.org/ebooks/46002
